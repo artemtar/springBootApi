@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-artem-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: artem
+Implementation-Vendor-Id: api_service
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/artem-api/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
